@@ -26,5 +26,3 @@ I am an Android Developer
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-demir&layout=compact&theme=vision-friendly-dark)](https://github.com/serhat-demir/github-readme-stats)
-<br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serhat-demir&theme=dark&background=181a18)](https://git.io/streak-stats)
