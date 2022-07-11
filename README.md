@@ -25,4 +25,4 @@ I am an Android Developer
 :fire: My Stats
 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-demir&layout=compact&theme=vision-friendly-dark)](https://github.com/serhat-demir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-demir&layout=compact&theme=vision-friendly-dark)](https://github.com/serhat-demir)
