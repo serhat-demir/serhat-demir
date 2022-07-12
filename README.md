@@ -2,10 +2,8 @@
 
 I am an Android Developer
 
-<img src="https://komarev.com/ghpvc/?username=serhat-demir&style=flat-square&color=blue" alt=""/>
-
 <h2>
-:hammer_and_wrench: Languages and Tools
+Languages and Tools
 </h2>
 
 <div>
@@ -22,7 +20,7 @@ I am an Android Developer
 </div>
 
 <h2>
-:fire: My Stats
+My Stats
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-demir&layout=compact&theme=vision-friendly-dark)](https://github.com/serhat-demir)
